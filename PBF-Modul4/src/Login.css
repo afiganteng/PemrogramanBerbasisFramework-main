@@ -1,0 +1,12 @@
+body {
+    font-family: 'Century Gothic';
+    box-shadow: 8px 8px 8px 8px #c0aeae;
+    text-align: center; }
+input[type=text] {
+    background-color: #db0000;
+    height: 50px;
+    color: #FFF;
+    border: 5; }
+input[type=text]:focus {
+    background-color: #ffe600;
+    color: #FFF; }

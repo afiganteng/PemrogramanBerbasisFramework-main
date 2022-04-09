@@ -1,0 +1,89 @@
+.isiKonten {
+    margin-top : 50px;
+    color: black;
+}
+
+.TopBar {
+    /* margin-top: -250px; */
+    border-radius: 5px;
+    width: 1110px;
+    padding: 10px 10px 0px 10px;
+    /* position:fixed; */
+    background-color: rgb(148, 140, 255);
+    font-family: 'Century gothic';
+}
+.artikel {
+    width: 100%;
+    border: 1px solid rgb(163, 187, 251);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+    display: flex;
+}
+
+.gambar-artikel {
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+.gambar-artikel img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.konten-artikel {
+    flex: 1;
+}
+
+.konten-artikel div.judul-artikel {
+    font-family: 'Century gothic';
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.konten-artikel p.isi-artikel {
+    font-family: 'Century gothic';
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+
+#simpan {
+    width: 100%;
+    background-color: rgb(21, 52, 155);
+}
+   
+h1 {
+    font-family: 'Century gothic';
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px 0px;
+    color: rgb(0, 43, 136);
+   
+}
+h2 {
+    font-weight: bold;
+    font-family: 'Century gothic';
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px 0px;
+    color: rgb(0, 43, 136);
+   
+}
+   
+label{
+    color: rgb(0, 43, 136);;
+   }
+   
+#sidebar{
+    background-color: grey;
+}
