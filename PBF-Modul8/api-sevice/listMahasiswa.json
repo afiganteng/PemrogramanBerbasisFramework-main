@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1653444435977,
+      "NIM": "1941720230",
+      "nama": "pahlev",
+      "alamat": "jember",
+      "hp": "081235678992",
+      "angkatan": "19",
+      "status": "belum lulus"
+    },
+    {
+      "id": 1653444491618,
+      "NIM": "19417202300",
+      "nama": "reza pahlev",
+      "alamat": "jember",
+      "hp": "0812356789920",
+      "angkatan": "19",
+      "status": "belum lulus"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

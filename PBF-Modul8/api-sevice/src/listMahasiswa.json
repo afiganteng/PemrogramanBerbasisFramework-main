@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "NIM": 1841720026,
+      "nama": "Natasya Mutyara",
+      "alamat": "Malang",
+      "hp": "087850688712",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 2,
+      "NIM": 184170026,
+      "nama": "Mahendra Firmansyah",
+      "alamat": "Malang",
+      "hp": "089765432123",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 3,
+      "NIM": 184170027,
+      "nama": "Adristi I Y",
+      "alamat": "Malang",
+      "hp": "089765434444",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 4,
+      "NIM": "1841720028",
+      "nama": "Putra ",
+      "alamat": "Jl Mawar",
+      "hp": "089664456667",
+      "angkatan": "18",
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
